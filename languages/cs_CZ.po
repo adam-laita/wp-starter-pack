@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSP\n"
+"POT-Creation-Date: 2021-05-06 18:44+0200\n"
+"PO-Revision-Date: 2021-05-06 18:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: Adam Laita <adam@laita.cz>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:11
+msgid "Page Not Found"
+msgstr "Stránka nenalezena"
+
+#: 404.php:13
+msgid ""
+"It looks like you've visited an invalid link. Please try another page from "
+"the main site navigation."
+msgstr ""
+"Zdá se, že jste navštívili neplatný odkaz. Zkuste prosím jinou stránku z "
+"hlavní navigace webu."
+
+#: components/loop.php:32
+msgid "More..."
+msgstr "Více..."
+
+#: functions.php:15
+msgid "Main navigation"
+msgstr "Hlavní navigace"
+
+#: functions.php:23
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: functions.php:24
+msgid "Default sidebar"
+msgstr "Výchozí postranní panel"
+
+#: functions.php:106
+msgid "Archive"
+msgstr "Archiv"
+
+#: index.php:20
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: page-sidebar.php:9
+msgid "Sidebar template"
+msgstr "Šablona s postranním panelem"
+
+#~ msgid "Recipes"
+#~ msgstr "Recepty"
+
+#~ msgid "Recipe"
+#~ msgstr "Recept"
+
+#~ msgid "Recipe Archives"
+#~ msgstr "Recepty"
+
+#~ msgid "Recipe Attributes"
+#~ msgstr "Vlastnosti receptu"
+
+#~ msgid "Parent Recipe:"
+#~ msgstr "Nadřazený recept:"
+
+#~ msgid "All Recipes"
+#~ msgstr "Všechny recepty"
+
+#~ msgid "Add New Recipe"
+#~ msgstr "Přidat nový recept"
+
+#~ msgid "Add New"
+#~ msgstr "Přidat nový"
+
+#~ msgid "New Recipe"
+#~ msgstr "Nový recept"
+
+#~ msgid "Edit Recipe"
+#~ msgstr "Upravit recept"
+
+#~ msgid "Update Recipe"
+#~ msgstr "Aktualizovat recept"
+
+#~ msgid "View Recipe"
+#~ msgstr "Zobrazit recept"
+
+#~ msgid "View Recipes"
+#~ msgstr "Zobrazit recepty"
+
+#~ msgid "Search Recipe"
+#~ msgstr "Vyhledat recept"
+
+#~ msgid "Not found"
+#~ msgstr "Nenalezeno"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "V koši nenalezeno"
+
+#~ msgid "Featured Image"
+#~ msgstr "Náhledový obrázek"
+
+#~ msgid "Set featured image"
+#~ msgstr "Nastavit náhledový obrázek"
+
+#~ msgid "Remove featured image"
+#~ msgstr "Odstranit náhledový obrázek"
+
+#~ msgid "Use as featured image"
+#~ msgstr "Použít jako náhledový obrázek"
+
+#~ msgid "Insert into recipe"
+#~ msgstr "Vložit do receptu"
+
+#~ msgid "Uploaded to this recipe"
+#~ msgstr "Nahráno k tomuto receptu"
+
+#~ msgid "Recipes list"
+#~ msgstr "Seznam receptů"
+
+#~ msgid "Recipes list navigation"
+#~ msgstr "Navigace seznamu receptů"
+
+#~ msgid "Filter recipes list"
+#~ msgstr "Filtr seznamu receptů"
+
+#~ msgid "New post type for Recipes"
+#~ msgstr "Nový obsahový typ pro Recepty"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorie"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "All Categories"
+#~ msgstr "Všechny kategorie"
+
+#~ msgid "Parent Category"
+#~ msgstr "Nadřazená kategorie"
+
+#~ msgid "Parent Category:"
+#~ msgstr "Nadřazená kategorie:"
+
+#~ msgid "New Category Name"
+#~ msgstr "Nový název kategorie"
+
+#~ msgid "Add New Category"
+#~ msgstr "Přidat novou kategorii"
+
+#~ msgid "Edit Category"
+#~ msgstr "Upravit kategorii"
+
+#~ msgid "Update Category"
+#~ msgstr "Aktualizovat kategorii"
+
+#~ msgid "View Category"
+#~ msgstr "Zobrazit kategorii"
+
+#~ msgid "Separate categories with commas"
+#~ msgstr "Oddělte kategorie čárkami"
+
+#~ msgid "Add or remove categories"
+#~ msgstr "Přidat/odebrat kategorie"
+
+#~ msgid "Choose from the most used"
+#~ msgstr "Vybrat z nejpoužívanějších"
+
+#~ msgid "Popular Categories"
+#~ msgstr "Oblíbené kategorie"
+
+#~ msgid "Search Categories"
+#~ msgstr "Vyhledat kategorie"
+
+#~ msgid "Not Found"
+#~ msgstr "Nenalezeno"
+
+#~ msgid "No categories"
+#~ msgstr "Žádné kategorie"
+
+#~ msgid "Categories list"
+#~ msgstr "Seznam kategorií"
+
+#~ msgid "Categories list navigation"
+#~ msgstr "Navigace seznamu kategorií"
+
+#~ msgid "New taxonomy for Recipes categories"
+#~ msgstr "Nová taxonomie pro Kategorie receptů"
+
+#~ msgid "Login"
+#~ msgstr "Uživatelské jméno"
+
+#~ msgid "Hello world"
+#~ msgstr "Ahoj světe"
+
+#~ msgid "Standard sidebar on blog and in articles"
+#~ msgstr "Standardní sidebar na blogu a v článcích"
