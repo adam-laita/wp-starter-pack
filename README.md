@@ -6,4 +6,5 @@ WP Starter Pack is a simple template for explaining the structure and basic prin
 
 ___
 
-*For the extended version with Custom Post Type, Custom Taxonomy and Shortcode example go to [github.com/adam-laita/wp-starter-pack-cpt](https://github.com/adam-laita/wp-starter-pack-cpt)*
+*For the extended version with Custom Post Type, Custom Taxonomy and Shortcode example<br>
+go to [github.com/adam-laita/wp-starter-pack-cpt](https://github.com/adam-laita/wp-starter-pack-cpt)*
