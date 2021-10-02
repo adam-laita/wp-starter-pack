@@ -18,7 +18,7 @@
 	/* ------------------------------ SIDEBARS ------------------------------ */
 
 	// Builds the definition for a single sidebar and returns the ID.
-	register_sidebar( 
+	register_sidebar(
 		array(
 			'name' => __( 'Sidebar', 'wpsp' ),
 			'description' => __( 'Default sidebar', 'wpsp' ),
